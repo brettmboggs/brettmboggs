@@ -8,14 +8,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3400&pause=900&color=3FB950&center=true&vCenter=true&width=760&height=34&lines=Ten+years+in+operations.+Now+I+build+the+software+I+wished+I+had.;Co-founder+%2B+product+engineer+at+Datum+CI.;Construction+ops+software%2C+shipped+from+St.+Louis." alt="Ten years in operations. Now I build the software I wished I had." />
+**Ten years in operations. Now I build the software I wished I had.**
 
 <br>
 
-<a href="https://brettboggs.dev"><img src="https://img.shields.io/badge/brettboggs.dev-0D1117?style=for-the-badge&logo=astro&logoColor=3FB950&labelColor=0D1117" alt="Website"></a>
+<a href="https://brettboggs.dev"><img src="https://img.shields.io/badge/brettboggs.dev-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Website"></a>
 <a href="https://linkedin.com/in/brettmboggs"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FB950&labelColor=0D1117" alt="LinkedIn"></a>
-<a href="mailto:brettmboggs@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=3FB950&labelColor=0D1117" alt="Email"></a>
-<a href="https://datumci.com"><img src="https://img.shields.io/badge/Datum_CI-0D1117?style=for-the-badge&logo=hexo&logoColor=3FB950&labelColor=0D1117" alt="Datum CI"></a>
+<a href="mailto:brettmboggs@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3FB950&labelColor=0D1117" alt="Email"></a>
+<a href="https://datumci.com"><img src="https://img.shields.io/badge/Datum_CI-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Datum CI"></a>
 
 </div>
 
@@ -72,34 +72,12 @@ Multi-tenant construction operations platform, live with a heavy-civil GC in St.
 
 ## ◆ Stack
 
-<div align="center">
-
-**Build**
-
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=BD34FE" alt="Vite">
-<img src="https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro">
-<img src="https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=F05138" alt="Swift">
-
-**Run**
-
-<img src="https://img.shields.io/badge/Azure_Functions-0D1117?style=flat-square&logo=azurefunctions&logoColor=0062AD" alt="Azure Functions">
-<img src="https://img.shields.io/badge/Azure_SQL-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="Azure SQL">
-<img src="https://img.shields.io/badge/Static_Web_Apps-0D1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure Static Web Apps">
-<img src="https://img.shields.io/badge/Entra_/_MSAL-0D1117?style=flat-square&logo=microsoft&logoColor=0078D4" alt="Entra / MSAL">
-<img src="https://img.shields.io/badge/Key_Vault-0D1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure Key Vault">
-<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
-
-**Leverage**
-
-<img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude Code">
-<img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=3FB950" alt="MCP">
-<img src="https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright">
-<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
-
-</div>
+|  |  |
+|---|---|
+| **Build** | `TypeScript` &nbsp;`React` &nbsp;`Node 22` &nbsp;`Vite` &nbsp;`Astro 5` &nbsp;`Swift` |
+| **Run** | `Azure Functions` &nbsp;`Azure SQL` &nbsp;`Static Web Apps` &nbsp;`Key Vault` &nbsp;`Entra ID / MSAL` &nbsp;`GitHub Actions` |
+| **Leverage** | `Claude Code` &nbsp;`MCP` &nbsp;`Playwright` &nbsp;`Context7` &nbsp;`Figma` |
+| **Shape of the work** | `multi-tenant` &nbsp;`RBAC` &nbsp;`optimistic UI` &nbsp;`versioned migrations` &nbsp;`LLM evals` |
 
 <br>
 
