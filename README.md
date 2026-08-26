@@ -14,7 +14,7 @@
 
 <a href="https://brettboggs.dev"><img src="https://img.shields.io/badge/brettboggs.dev-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Website"></a>
 <a href="https://linkedin.com/in/brettmboggs"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FB950&labelColor=0D1117" alt="LinkedIn"></a>
-<a href="mailto:brettmboggs@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3FB950&labelColor=0D1117" alt="Email"></a>
+<a href="mailto:brettmboggs@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Email"></a>
 <a href="https://datumci.com"><img src="https://img.shields.io/badge/Datum_CI-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Datum CI"></a>
 
 </div>
@@ -97,7 +97,7 @@ Multi-tenant construction operations platform, live with a heavy-civil GC in St.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=brettmboggs&hide_border=true&background=00000000&stroke=30363D&ring=3FB950&fire=39D353&currStreakNum=3FB950&sideNums=3FB950&currStreakLabel=3FB950&sideLabels=7D8590&dates=7D8590" alt="Contribution streak" width="500">
+<img src="https://streak-stats.demolab.com?user=brettmboggs&disable_animations=true&hide_border=true&background=00000000&stroke=30363D&ring=3FB950&fire=39D353&currStreakNum=3FB950&sideNums=3FB950&currStreakLabel=3FB950&sideLabels=7D8590&dates=7D8590" alt="Contribution streak" width="500">
 
 <sub>Most of the volume lives in private repos — Datum CI ships from a closed org.</sub>
 
